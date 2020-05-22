@@ -17,3 +17,13 @@ Si tienes dudas y/o comentarios sobre la sesión o sobre el curso en general, no
 ✉️ mxfuturelab@gmail.com para contactar al canal de atención de Future Lab.
 
 ✉️ missaelgabo@gmail.com para contactar al tutor de esta sesión directamente.
+
+## Problemas de práctica
+
+Te recomendamos resolver (al menos) estos problemas, para practicar y familiarizarte con OmegaUp:
+
+* [Hola mundo](https://omegaup.com/arena/problem/CR-Hola-mundo/#problems)  
+* [Suma simple](https://omegaup.com/arena/problem/suma_simple/#problems)
+* [Formula general](https://omegaup.com/arena/problem/formula_general/#problems/formula_general)
+* [Promedios](https://omegaup.com/arena/problem/promedios/#problems)
+* [Dolares](https://omegaup.com/arena/problem/Dolares/#problems)
