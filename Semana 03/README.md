@@ -2,7 +2,7 @@
 
 ----
 
-Aló! Bienvenid@ a la tercera sesión de este curso. Hoy cubriremos el tema de **condicionales y control de flujo**. En esta sesión se explican que son las estructuras de control de flujo  `Python`🐍 y todo lo que podemos hacer con elllas.
+Aló! Bienvenid@ a la tercera sesión de este curso. Hoy cubriremos el tema de **control de flujo**. En esta sesión se explican que son las estructuras de control de flujo en `Python`🐍 y todo lo que podemos hacer con elllas.
 
 ## Material de la Sesión
 
