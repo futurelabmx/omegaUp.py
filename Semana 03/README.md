@@ -16,4 +16,4 @@ Si tienes dudas y/o comentarios sobre la sesión o sobre el curso en general, no
 
 ✉️ mxfuturelab@gmail.com para contactar al canal de atención de Future Lab.
 
-✉️ Zaidthejedi@gmail.com para contactar al tutor de esta sesión directamente.
+✉️ missaelgabo@gmail.com para contactar al tutor de esta sesión directamente.
