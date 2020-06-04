@@ -1,4 +1,4 @@
-# Semana 02: omegaUp.py
+# Semana 03: omegaUp.py
 
 ----
 
@@ -6,7 +6,7 @@ Aló! Bienvenid@ a la tercera sesión de este curso. Hoy cubriremos el tema de *
 
 ## Material de la Sesión
 
-Para ver el *Notebook* en línea, correspondiente a esta sesión, haz click aquí: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GabrielMissael/omegaUp.py/blob/master/Semana%2002/Cheat_sheet(referencia).ipynb)
+Para ver el *Notebook* en línea, correspondiente a esta sesión, haz click aquí: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidTheJedi/omegaUp.py/blob/master/Semana%2003/Cheatsheet_curso_python.ipynb)
 
 Si quieres ver las diapositivas utilizadas, haz click aquí: [![Slides](https://img.shields.io/badge/Slides-Google%20Slides-tomato)](https://docs.google.com/presentation/d/e/2PACX-1vRV5W0jXgXUBJQlMlHl3EUJ5ZcVVRp-yPGEZ7JVTG5ma-FFY7-GRJTxRsIRzfuz27UddDncu3hqvP7y/pub?start=true&loop=true&delayms=60000)
 
@@ -16,4 +16,4 @@ Si tienes dudas y/o comentarios sobre la sesión o sobre el curso en general, no
 
 ✉️ mxfuturelab@gmail.com para contactar al canal de atención de Future Lab.
 
-✉️ missaelgabo@gmail.com para contactar al tutor de esta sesión directamente.
+✉️ ZaidTheJedi@gmail.com para contactar al tutor de esta sesión directamente.
