@@ -8,7 +8,7 @@ Aló! Bienvenid@ a la tercera sesión de este curso. Hoy cubriremos el tema de *
 
 Para ver el *Notebook* en línea, correspondiente a esta sesión, haz click aquí: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZaidTheJedi/omegaUp.py/blob/master/Semana%2003/Cheatsheet_curso_python.ipynb)
 
-Si quieres ver las diapositivas utilizadas, haz click aquí: [![Slides](https://img.shields.io/badge/Slides-Google%20Slides-tomato)](https://docs.google.com/presentation/d/1RUv_2uua1l4xO0W6-3PDXCWvSOKm4fbDXhC13Od83vY/edit?usp=sharing)
+Si quieres ver las diapositivas utilizadas, haz click aquí: [![Slides](https://img.shields.io/badge/Slides-Google%20Slides-tomato)](https://docs.google.com/presentation/d/1w2NRx3wmjaA-zUSs4Fzy0hT_PTFg1HB1m1OeVXf87jI/edit?usp=sharing)
 
 ## Contacto
 
