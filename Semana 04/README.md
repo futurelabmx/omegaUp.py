@@ -1,4 +1,4 @@
-# Semana 02: omegaUp.py
+# Semana 04: omegaUp.py
 
 ----
 
