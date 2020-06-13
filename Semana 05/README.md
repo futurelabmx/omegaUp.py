@@ -1,7 +1,8 @@
 
 # Semana 05: omegaUp.py
 
-[![Slides](https://img.shields.io/badge/Slides-Google%20Slides-tomato)](https://docs.google.com/presentation/d/1x6CBLLlgWiBWWXy_-qsueknRKP8vFviC9NE3AN3gvc8/edit?usp=sharing)
+[![Slides](https://img.shields.io/badge/Slides-Google%20Slides-tomato)](https://docs.google.com/presentation/d/e/2PACX-1vQC_PUJe1xs84lcbaVQx8MR8psJTHkN8Jeh2ToeaHdkUh_Z1frryExkDY9f5KhQs8hQd50DEI7hNXtE/pub?start=true&loop=false&delayms=3000)<br>
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/futurelabmx/omegaUp.py/blob/master/Semana%2005/Strings_operations_git.ipynb)
 
 ¡Bienvenid@ al repositorio de los materiales para la quinta semana de **omegaUp.py**!
 
@@ -18,4 +19,4 @@ En esta sesión, veremos un breve repaso de los Strings, para despues revisar la
 
 ## Material de sesión:
 
-La presentación la puedes ver [haciendo click aquí](https://docs.google.com/presentation/d/1x6CBLLlgWiBWWXy_-qsueknRKP8vFviC9NE3AN3gvc8/edit?usp=sharing) y el Notebook [en este link](https://colab.research.google.com/drive/1NLlhcwM36F2qaN3-ZtyHp0lHmZ08E1Uw?usp=sharing), o puedes descargar la versión alojada en GitHub haciendo [click aquí](./Strings_operations_git.ipynb).  
+La presentación la puedes ver [haciendo click aquí](https://docs.google.com/presentation/d/e/2PACX-1vQC_PUJe1xs84lcbaVQx8MR8psJTHkN8Jeh2ToeaHdkUh_Z1frryExkDY9f5KhQs8hQd50DEI7hNXtE/pub?start=true&loop=false&delayms=3000) y el Notebook [en este link](https://colab.research.google.com/github/futurelabmx/omegaUp.py/blob/master/Semana%2005/Strings_operations_git.ipynb), o puedes descargar la versión alojada en GitHub haciendo [click aquí](https://colab.research.google.com/github/futurelabmx/omegaUp.py/blob/master/Semana%2005/Strings_operations_git.ipynb).  
