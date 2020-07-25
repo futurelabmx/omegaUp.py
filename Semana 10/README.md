@@ -1,4 +1,4 @@
-# Semana 07: Objetos
+# Semana 10: Random
 
 [![Slides](https://img.shields.io/badge/Slides-Google%20Slides-tomato)](https://docs.google.com/presentation/d/e/2PACX-1vTj_VO8ljEpRlY3CVYfcvFSW6eQCv4tGttuZ2z34oA1TLI4VDlbyMzsQ1zIpH5WRGvIX7XP889C63Cu/pub?start=false&loop=false&delayms=3000)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i4qryMaJr0eX_us6g8nL4NbbzmzJUgpL?usp=sharing)
